@@ -16,7 +16,7 @@ About
 
 ## Screenshots
 
-![App Screenshot](https://media.discordapp.net/attachments/1225061989483544707/1225138759734005760/IMG-20240403-WA0009.jpg?ex=662944e2&is=6616cfe2&hm=90f5096e16bbd4b26c9e606476408f90cee59b189034da136422d26a7985ee1a&=&format=webp&width=355&height=473)
+![App Screenshot](https://mega.nz/file/FkUXnYQb#d1B1kozJkSpzhofIrWALakOnV15R7qoqwJukNQ-GzgA)
 
 
 ## Feedback
