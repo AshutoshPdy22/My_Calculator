@@ -16,7 +16,7 @@ About
 
 ## Screenshots
 
-![App Screenshot](https://github.com/AshutoshPdy22/My_Calculator/blob/main/Picture/IMG-20240403-WA0009.jpg)
+![App Screenshot](https://github.com/AshutoshPdy22/My_Calculator/blob/main/Image/Readme/My Calculator_screenshot.jpg)
 
 
 ## Feedback
